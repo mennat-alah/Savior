@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-Edit-profile-Authority',
+  selector: 'app-Edit-Authority',
   templateUrl: './EditA.component.html',
-  styleUrls: ['./EditA.component.CSS']
+  styleUrls: ['./EditA.component.css']
 })
-export class signInAComponent implements OnInit {
+export class EditAComponent implements OnInit {
 
   constructor() { }
 
